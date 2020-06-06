@@ -6,5 +6,9 @@ namespace DAL.Entities
 {
     class added
     {
+        public int id { get; set; }
+        public int operator_id { get; set; }
+        public int situation_id { get; set; }
+        public int location_id { get; set; }
     }
 }
