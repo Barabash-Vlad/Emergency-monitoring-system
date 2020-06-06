@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DAL.Entities
 {
-    class added
+    public class added
     {
         public int id { get; set; }
         public int operator_id { get; set; }

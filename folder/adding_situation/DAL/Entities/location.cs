@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DAL.Entities
 {
-    class location
+    public class location
     {
         public int id_location { get; set; }
         public int location_type { get; set; }

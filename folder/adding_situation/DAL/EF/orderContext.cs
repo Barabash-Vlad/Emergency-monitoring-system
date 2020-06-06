@@ -6,7 +6,7 @@ using DAL.Entities;
 
 namespace DAL.EF
 {
-    class orderContext
+    public class orderContext
         : DbContext
     {
         public DbSet<added> Added { get; set; }
