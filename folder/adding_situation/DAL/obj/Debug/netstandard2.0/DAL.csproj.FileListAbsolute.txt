@@ -1,0 +1,5 @@
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs

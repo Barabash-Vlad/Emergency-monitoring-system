@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using DAL.Entities;
+using DAL.Repositories.Interfaces;
+
 
 namespace DAL.Repositories.Interfaces
 {
-    class ISituationRepository
+    interface ISituationRepository
+        : IRepository<situation>
     {
     }
 }
