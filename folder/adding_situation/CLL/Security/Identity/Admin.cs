@@ -7,7 +7,7 @@ namespace CLL.Security.Identity
     public class Admin
         : User
     {
-        public Admin(int userId, string name, string login, string password)
+        public Admin(int userId, string name, string login, int password)
             : base(userId, name, nameof(Admin), password)
         {
         }

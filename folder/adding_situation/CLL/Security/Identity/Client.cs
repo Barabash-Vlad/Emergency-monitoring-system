@@ -7,7 +7,7 @@ namespace CLL.Security.Identity
     public class Client
         : User
     {
-        public Client(int userId, string name, string login, string password)
+        public Client(int userId, string name, string login, int password)
             : base(userId, name, nameof(Client), password)
         {
         }

@@ -6,7 +6,7 @@ namespace CLL.Security.Identity
 {
     public abstract class User
     {
-        public User(int userId, string name, string login, string password)
+        public User(int userId, string name, string login, int password)
         {
             UserID = userId;   
             Name = name;
@@ -16,7 +16,7 @@ namespace CLL.Security.Identity
         public int UserID { get; }
         public string Name { get; }
         protected string Login { get; }
-        public string Password { get; }
+        public int Password { get; }
     }
 }
 
