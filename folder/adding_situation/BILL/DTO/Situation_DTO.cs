@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BILL.DTO
 {
-    class Situation_DTO
+    public class Situation_DTO
     {
         public int id_situation { get; set; }
         public string situation_type { get; set; }

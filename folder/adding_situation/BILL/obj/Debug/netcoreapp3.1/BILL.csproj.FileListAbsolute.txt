@@ -1,0 +1,4 @@
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\BILL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\BILL\obj\Debug\netcoreapp3.1\BILL.csprojAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\BILL\obj\Debug\netcoreapp3.1\BILL.AssemblyInfoInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\adding_situation\BILL\obj\Debug\netcoreapp3.1\BILL.AssemblyInfo.cs

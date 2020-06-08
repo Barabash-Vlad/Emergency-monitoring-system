@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BILL.DTO
 {
-    class Location_DTO
+    public class Location_DTO
     {
         public int id_location { get; set; }
         public int location_type { get; set; }

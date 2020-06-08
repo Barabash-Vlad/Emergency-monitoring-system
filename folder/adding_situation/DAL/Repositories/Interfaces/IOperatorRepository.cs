@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DAL.Repositories.Interfaces
 {
-    interface IOperatorRepository
+    public interface IOperatorRepository
         : IRepository<@operator>
     {
     }

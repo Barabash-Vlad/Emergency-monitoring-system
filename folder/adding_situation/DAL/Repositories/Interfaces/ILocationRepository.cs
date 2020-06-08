@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DAL.Repositories.Interfaces
 {
-    interface ILocationRepository
+    public interface ILocationRepository
         : IRepository<location>
     {
     }

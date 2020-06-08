@@ -7,7 +7,7 @@ using DAL.Repositories.Interfaces;
 
 namespace DAL.Repositories.Interfaces
 {
-    interface ISituationRepository
+    public interface ISituationRepository
         : IRepository<situation>
     {
     }

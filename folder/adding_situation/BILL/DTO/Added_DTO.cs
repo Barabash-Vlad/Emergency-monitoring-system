@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BILL.DTO
 {
-    class Added_DTO
+    public class Added_DTO
     {
         public int id { get; set; }
         public int operator_id { get; set; }

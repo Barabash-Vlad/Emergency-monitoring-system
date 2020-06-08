@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DAL.UnitOfWork
 {
-    interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork : IDisposable
     {
         IAddedRepository added { get; }
         ILocationRepository location { get; }
