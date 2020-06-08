@@ -1,0 +1,13 @@
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.exe
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.deps.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.dev.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\bin\Debug\netcoreapp3.1\lab10.pdb
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.csprojAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfoInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfo.cs
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.pdb
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab10\obj\Debug\netcoreapp3.1\lab10.genruntimeconfig.cache
