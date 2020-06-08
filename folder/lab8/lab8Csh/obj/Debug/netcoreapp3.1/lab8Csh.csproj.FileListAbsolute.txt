@@ -1,0 +1,13 @@
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.exe
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.deps.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.runtimeconfig.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.runtimeconfig.dev.json
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\bin\Debug\netcoreapp3.1\lab8Csh.pdb
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.csprojAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.AssemblyInfoInputs.cache
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.AssemblyInfo.cs
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.dll
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.pdb
+C:\Users\Влад\Documents\GitHub\Emergency-monitoring-system\folder\lab8\lab8Csh\obj\Debug\netcoreapp3.1\lab8Csh.genruntimeconfig.cache
